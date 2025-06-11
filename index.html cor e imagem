@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Evolução da Conexão Campo-Cidade</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Evolução da Conexão Campo e Cidade</h1>
+        <p>Uma jornada pela história da interação entre áreas rurais e urbanas.</p>
+    </header>
+    
+    <section class="timeline">
+        <div class="event">
+            <img src="https://via.placeholder.com/150" alt="Anos 1900" class="event-image">
+            <h2>Anos 1900</h2>
+            <p>O transporte era limitado a carruagens e trens, dificultando a conexão entre cidade e campo.</p>
+        </div>
+        <div class="event">
+            <img src="https://via.placeholder.com/150" alt="Anos 1950" class="event-image">
+            <h2>Anos 1950</h2>
+            <p>A introdução do automóvel facilitou o deslocamento e a migração para as cidades.</p>
+        </div>
+        <div class="event">
+            <img src="https://via.placeholder.com/150" alt="Anos 1980" class="event-image">
+            <h2>Anos 1980</h2>
+            <p>O crescimento das rodovias conectou ainda mais as áreas rurais às urbanas, promovendo o comércio.</p>
+        </div>
+        <div class="event">
+            <img src="https://via.placeholder.com/150" alt="Anos 2000" class="event-image">
+            <h2>Anos 2000</h2>
+            <p>A tecnologia da informação começou a transformar a comunicação entre o campo e a cidade.</p>
+        </div>
+        <div class="event">
+            <img src="https://via.placeholder.com/150" alt="Atualidade" class="event-image">
+            <h2>Atualidade</h2>
+            <p>A conectividade digital permite que as pessoas trabalhem e vivam em lugares mais flexíveis.</p>
+        </div>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Evolução Campo-Cidade. Todos os direitos reservados.</p>
+    </footer>
+</body>
+</html>
